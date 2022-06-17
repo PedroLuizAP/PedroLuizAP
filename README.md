@@ -1,7 +1,7 @@
 ### Olá eu sou Pedro Luiz 👋
 
 - 🔭 Hoje trabalho com C#
-- 🌱 Estudando Desenvolvimento Web(Blazor)
+- 🌱 Estudando Desenvolvimento Web(Blazor) e Mobile(MAUI)
 
 
 <div align="center">
