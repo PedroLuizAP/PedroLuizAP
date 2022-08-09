@@ -1,7 +1,11 @@
 ### Olá eu sou Pedro Luiz 👋
 
 - 🔭 Hoje trabalho com C#
-- 🌱 Estudando Desenvolvimento Web(Blazor), Mobile(MAUI) e API Rest.
+- 🌱 Estudando Desenvolvimento Web => Blazor.
+- 🌱 Estudando Desenvolvimento Mobile(MAUI).
+- 🌱 Estudando Backend API Rest.
+- 🌱 Estudando Frontend React.
+
 
 
 <div align="center">
