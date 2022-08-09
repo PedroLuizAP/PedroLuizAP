@@ -2,9 +2,9 @@
 
 - 🔭 Hoje trabalho com C#
 - 🌱 Estudando Desenvolvimento Web => Blazor.
-- 🌱 Estudando Desenvolvimento Mobile(MAUI).
-- 🌱 Estudando Backend API Rest.
-- 🌱 Estudando Frontend React.
+- 🌱 Estudando Desenvolvimento => Mobile(MAUI).
+- 🌱 Estudando Backend => API Rest.
+- 🌱 Estudando Frontend => React.
 
 
 
