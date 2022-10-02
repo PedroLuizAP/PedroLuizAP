@@ -1,6 +1,6 @@
 ### Olá eu sou Pedro Luiz 👋
 
-- 🔭 Hoje trabalho com C#
+- 🔭 Desenvolvedor .NET
 - 🌱 Estudando Desenvolvimento Web => Blazor.
 - 🌱 Estudando Desenvolvimento => Mobile(MAUI).
 - 🌱 Estudando Backend => API Rest.
