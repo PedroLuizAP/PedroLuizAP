@@ -1,12 +1,13 @@
+[![@pedroluizap's Holopin board](https://holopin.me/pedroluizap)](https://holopin.io/@pedroluizap)
+
 ### Olá eu sou Pedro Luiz 👋
+
 
 - 🔭 Desenvolvedor .NET
 - 🌱 Estudando Desenvolvimento Web => Blazor.
 - 🌱 Estudando Desenvolvimento => Mobile(MAUI).
 - 🌱 Estudando Backend => API Rest.
 - 🌱 Estudando Frontend => React.
-
-
 
 <div align="center">
   <a href="https://github.com/PedroLuizAP">
