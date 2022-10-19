@@ -4,10 +4,10 @@
 
 
 - 🔭 Desenvolvedor .NET
-- 🌱 Estudando Desenvolvimento Web => Blazor.
-- 🌱 Estudando Desenvolvimento => Mobile(MAUI).
-- 🌱 Estudando Backend => API Rest.
-- 🌱 Estudando Frontend => React.
+- 🌱 Web => Blazor.
+- 🌱 Mobile => MAUI.
+- 🌱 Backend => API Rest.
+- 🌱 Frontend => React.
 
 <div align="center">
   <a href="https://github.com/PedroLuizAP">
