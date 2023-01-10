@@ -6,7 +6,7 @@
     <td>
       - 🔭 Desenvolvedor .NET<br>
       - 🌱 Web => Blazor/React.<br>
-      - 🌱 Mobile => MAUI.<br>
+      - 🌱 Mobile => MAUI/Electron<br>
       - 🌱 Backend => API Rest.<br>
       - 🌱 Test => xUnit.<br>
     </td>
