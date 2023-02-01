@@ -65,6 +65,9 @@
   <a href="https://www.twitter.com/pedroluizap/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a> 
+   <a href="https://dev.to/pedroluizap" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank">
+  </a> 
 
 </div>
                                                                                                                                           
