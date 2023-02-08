@@ -5,10 +5,10 @@
   <tr>
     <td>
       - 🔭 Desenvolvedor .NET<br>
-      - 🌱 Web => Blazor/React.<br>
-      - 🌱 Mobile => MAUI/Electron<br>
       - 🌱 Backend => API Rest.<br>
       - 🌱 Test => xUnit.<br>
+      - 🌱 Web => Blazor/React.<br>
+      - 🌱 Mobile => MAUI/Electron<br>      
     </td>
     <td>
       <img height="180em" src="https://streak-stats.demolab.com/?user=PedroLuizAP&theme=merko"/>
