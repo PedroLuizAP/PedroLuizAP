@@ -5,7 +5,7 @@
   <tr>
     <td>
       - 🔭 Desenvolvedor .NET<br>
-      - 🌱 Backend => API Rest.<br>
+      - 🌱 Backend => API Rest.(C#/TS)<br>
       - 🌱 Test => xUnit.<br>
       - 🌱 Web => Blazor/React.<br>
       - 🌱 Mobile => MAUI/Electron<br>      
