@@ -8,7 +8,7 @@
       - 🌱 Backend => API Rest C#<br>
       - 🌱 Test => xUnit.<br>
       - 🌱 Web => Blazor/React.<br>
-      - 🌱 Mobile => MAUI/Electron<br>      
+      - 🌱 Mobile => MAUI<br>      
     </td>
     <td>
       <img height="180em" src="https://streak-stats.demolab.com/?user=PedroLuizAP&theme=merko"/>
