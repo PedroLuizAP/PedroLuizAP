@@ -7,7 +7,7 @@
       - 🔭 Desenvolvedor .NET<br>
       - 🌱 Backend => API Rest C#<br>
       - 🌱 Test => xUnit.<br>
-      - 🌱 Web => Blazor/React.<br>
+      - 🌱 Web => React<br>
       - 🌱 Mobile => MAUI<br>      
     </td>
     <td>
