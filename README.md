@@ -11,8 +11,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/PedroLuizAP">
-  <img height="210em"  src="https://streak-stats.demolab.com/?user=PedroLuizAP&theme=merko"/>
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuizAP&layout=compact&langs_count=7&theme=merko"/>
+  <img height="190em"  src="https://streak-stats.demolab.com/?user=PedroLuizAP&theme=merko"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuizAP&layout=compact&langs_count=7&theme=merko"/>
   <br>
 
 </div>
