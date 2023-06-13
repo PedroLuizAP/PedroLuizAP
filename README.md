@@ -1,25 +1,18 @@
 [![@pedroluizap's Holopin board](https://holopin.me/pedroluizap)](https://holopin.io/@pedroluizap)
 
 ### Olá eu sou Pedro Luiz 👋<br>
-<table align="center">
-  <tr>
-    <td>
-      - 🔭 Desenvolvedor .NET<br>
-      - 🌱 Backend => API Rest C#<br>
-      - 🌱 Test => xUnit.<br>
-      - 🌱 Web => React<br>
-      - 🌱 Mobile => MAUI<br>      
-    </td>
-    <td>
-      <img height="180em" src="https://streak-stats.demolab.com/?user=PedroLuizAP&theme=merko"/>
-    </td>
-  </tr>
-</table>
-
+<div align="left">
+  - 🔭 Desenvolvedor .NET<br>
+  - 🌱 Backend => API Rest C#<br>
+  - 🌱 Test => xUnit.<br>
+  - 🌱 Web => React<br>
+  - 🌱 Mobile => MAUI<br>
+</div>
+<br>
 <div align="center">
   <a href="https://github.com/PedroLuizAP">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLuizAP&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuizAP&layout=compact&langs_count=7&theme=merko"/>
+  <img height="230em"  src="https://streak-stats.demolab.com/?user=PedroLuizAP&theme=merko"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuizAP&layout=compact&langs_count=7&theme=merko"/>
   <br>
 
 </div>
